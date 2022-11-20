@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T20:37:10.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZkX6LeryIwBVYg_DfwIm" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T20:38:17.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kwiQ8MCv7d4kKEkS2mKO" version="20.5.3" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2802" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -114,10 +114,10 @@
           <mxGeometry x="-770" y="175" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7iyp86XuS3yvmDUsKt_h-33" value="no" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="230" width="40" height="30" as="geometry" />
+          <mxGeometry x="-610" y="230" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7iyp86XuS3yvmDUsKt_h-34" value="yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="205" width="40" height="30" as="geometry" />
+          <mxGeometry x="-525" y="160" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7iyp86XuS3yvmDUsKt_h-35" value="get trip details" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-380" y="265" width="100" height="30" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry x="-590" y="610" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7iyp86XuS3yvmDUsKt_h-81" value="yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="550" width="40" height="30" as="geometry" />
+          <mxGeometry x="-280" y="560" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7iyp86XuS3yvmDUsKt_h-82" value="no" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-340" y="630" width="40" height="30" as="geometry" />
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="7iyp86XuS3yvmDUsKt_h-92" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-1280" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iyp86XuS3yvmDUsKt_h-93" value="Is the trip possible?" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="120" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
